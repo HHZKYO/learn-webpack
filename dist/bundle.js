@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("const a = 'hi'\r\nconsole.log(a)\n\n//# sourceURL=webpack://code2/./src/index.js?");
+eval("const a = 'hi2'\r\nconsole.log(a)\n\n//# sourceURL=webpack://code2/./src/index.js?");
 
 /***/ })
 
