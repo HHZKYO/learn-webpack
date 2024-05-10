@@ -1,7 +1,7 @@
 const path = require('path')   //引入path
 module.exports = {
     entry: './src/index.js',     //设置入口
-    mode: 'development',
+    mode: 'production',
     output: {
         //这里的path是一个全局变量，所以需要引入，看前面的：const path = require('require')
         path: path.resolve(__dirname, 'dist'),  

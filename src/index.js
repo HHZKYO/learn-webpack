@@ -1,2 +1,2 @@
-const a = 'hi2'
+const a = '罗浩鸿'
 console.log(a)
